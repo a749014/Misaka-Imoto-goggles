@@ -10,7 +10,7 @@ from queue import Queue
 
 from video_recorder import VideoRecorder
 from gaussianeffect import GaussianEffect
-from find_counters import MultipleFilters
+from filters import MultipleFilters
 from recognition import Model, format_model_menu_label, get_model_names
 
 from menu_bar import GaussianblurMenu, SingleColorMenu, button, mark_button, render_buttons
