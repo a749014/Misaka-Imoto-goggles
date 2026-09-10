@@ -1,0 +1,3 @@
+solve kasumi pi 4 pro failed to open:
+1.use v4l2cam library
+2.must compile the v4l2 driver first by user guide 3.29.2 and copy v4l2cam.cpython-310-aarch64-linux-gnu.so into project file
